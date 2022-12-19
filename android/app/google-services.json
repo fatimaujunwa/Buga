@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "334068316654",
+    "project_id": "buga-69852",
+    "storage_bucket": "buga-69852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334068316654:android:d52788991d4f39bad6f6ff",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334068316654-b3oiln5puqko73h4v1ol5p32aepgvs5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3rwsG--cY8WnVyXfYrlbPCVinvkGpLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334068316654-b3oiln5puqko73h4v1ol5p32aepgvs5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334068316654-8952ckdmuf44isg67lklrasj0iqohegr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bugaa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334068316654:android:083e0c6991b090d0d6f6ff",
+        "android_client_info": {
+          "package_name": "com.example.bugaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334068316654-b3oiln5puqko73h4v1ol5p32aepgvs5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3rwsG--cY8WnVyXfYrlbPCVinvkGpLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334068316654-b3oiln5puqko73h4v1ol5p32aepgvs5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334068316654-8952ckdmuf44isg67lklrasj0iqohegr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bugaa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
